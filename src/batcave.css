@@ -1,0 +1,18 @@
+html, body {
+    margin: 0px;
+    height: 100%;
+}
+
+.batcave {
+    background-image: url("DC_BG_Batcave02.jpg.webp");
+    background-size: cover;
+    height: 100vh;
+}
+
+.greeting {
+    position: relative;
+    left: 45%;
+    top: 45%;
+    color:lightgrey;
+    font-weight: bolder;
+}
